@@ -1,0 +1,28 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(üÿäŠûÿÿÿÿ8º×ÍÈ1
+7
+java:S1220""Move this file to a named package.8¿×ÍÈ1
+O
+java:S1199
+"-Extract this nested code block into a method.(ãÇ±¤ûÿÿÿÿ8À×ÍÈ1
+i
+java:S1223	"LRename this method to prevent any misunderstanding or make it a constructor.(Ã«â8Á×ÍÈ1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¦ş˜úÿÿÿÿ8Ñ×ÍÈ1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ªºÊÃÿÿÿÿÿ8Ò×ÍÈ1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×Óïİ8Ò×ÍÈ1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ƒ¸‹÷ÿÿÿÿÿ8Ò×ÍÈ1
+\
+java:S1854":Remove this useless assignment to local variable "random".(’Ã—Àøÿÿÿÿ8í×ÍÈ1
+M
+java:S1481"+Remove this unused "random" local variable.(’Ã—Àøÿÿÿÿ8†ØÍÈ1
+P
+java:S1481$".Remove this unused "minusculo" local variable.(ÉØªŞüÿÿÿÿ8ØÍÈ1
+P
+java:S1481%".Remove this unused "maiusculo" local variable.(Óşâüÿÿÿÿ8ØÍÈ1
+I
+java:S1481&",Remove this unused "digitos" local variable.(ĞË¶8ØÍÈ1
+L
+java:S1481'"/Remove this unused "caracteres" local variable.(¶¹°ğ8ØÍÈ1
+F	java:S106)"+Replace this use of System.out by a logger.(Íæé^8’ØÍÈ1
+P
+java:S1068".Remove this unused "caracteres" private field.(ƒ¸‹÷ÿÿÿÿÿ8“ØÍÈ1
