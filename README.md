@@ -4,5 +4,4 @@ Also with highkey
 Also with Numbers
 Also with Special caracters
 
-## Thanks.
-Bye.
+## Thanks, bye.
